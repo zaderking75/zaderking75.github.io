@@ -3,12 +3,6 @@ body{
     font-family: sans-serif;
 }
 
-.s{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    height: 60px;
-}
 
 .contenedor{
     display: flex;
@@ -71,4 +65,8 @@ button.active{
     border-radius: 1rem;
     box-shadow: 0 .3rem 5rem;
     margin: 2rem;
+}
+
+footer{
+    background:sandybrown;
 }
