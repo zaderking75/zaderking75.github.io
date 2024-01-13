@@ -70,3 +70,13 @@ button.active{
 footer{
     background:sandybrown;
 }
+
+.img{
+    width: 450px;
+    margin: 10px;
+}
+
+.orden{
+    display: flex;
+    justify-content: space-around;
+}
